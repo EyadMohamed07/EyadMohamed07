@@ -79,13 +79,6 @@ Bridge the gap between complex data and strategic action by applying a strong ma
 └── Linear Algebra
 ```
 
-## 🔭 Currently Exploring
-
-<p align="center">
-Advanced SQL • Data engineering • LLMs 
-
-</p>
-
 ## 📊 Data → Insights → Intelligence
 <div align="center">
 
@@ -102,7 +95,21 @@ Advanced SQL • Data engineering • LLMs
       INTELLIGENT DECISIONS
   </div>
 
+## 🔭 Currently Exploring
 
+<p align="center">
+Advanced SQL • Data engineering • LLMs 
+
+</p>
+
+## 🏆 Certifications & Courses
+
+- 📊 **Google Data Analytics** — [View Certificate ↗](https://drive.google.com/file/d/1iewXhQbQmxl6SBVCq6NCqvdKAIsakJAd/view?usp=drive_link)
+- ⚙️ **Introduction to Data Engineering** — [View Certificate ↗](https://drive.google.com/file/d/1rWZxqfVSm9bxPwINwhVdH7eKa1KvTVKK/view?usp=drive_link)
+- 🗄️ **Big Data** — [View Certificate ↗](https://drive.google.com/file/d/1Cdlwo7n_cckU72hvgghhKXw0aJaokTD5/view?usp=drive_link)
+- 🤖 **Artificial Intelligence (AI) with huawei** — [View Certificate ↗](https://drive.google.com/file/d/1nZn6d_rmGhgH6SGDW-rNLQ_0smqxW-EP/view?usp=drive_link) - [View Certificate ↗](https://drive.google.com/file/d/1gQqaJkmXHGfmEe9hnKn8cCclIiXK7VU3/view?usp=drive_link)
+- 🗃️ **Database** — [View Certificate ↗](https://drive.google.com/file/d/1fcmn3vPm-YbcbZZ_XUsP6wi15ThjrjDy/view?usp=drive_link)
+- 
   # 📫 Let's Connect
 <div align="center"> <a href="http://www.linkedin.com/in/eyad-mohamed-098401289"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eymohamed2310@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
