@@ -55,6 +55,7 @@ Bridge the gap between complex data and strategic action by applying a strong ma
 <p>
   <img src="https://img.shields.io/badge/Statistics-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linear_Algebra-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Calculus-34495E?style=for-the-badge"/>
 </p>
 
 ---
