@@ -77,6 +77,7 @@ Bridge the gap between complex data and strategic action by applying a strong ma
 
 📐 Mathematical Foundation
 ├── Statistics
+├── Calculus
 └── Linear Algebra
 ```
 
